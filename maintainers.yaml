@@ -1,0 +1,27 @@
+# Maintainer roster for kube-rs
+# Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
+
+
+#  Maintainers: Please connect your GitHub handle to your LFID on openprofile.dev to enable automatic access to CNCF resources. The system will use your primary email address for setup.
+maintainers:
+  - project_id: "kube-rs"
+    org: "kube-rs"
+    teams:
+      - name: "project-maintainers"
+        members:
+          - oilbeater
+          - hongzhen-ma
+          - zhangzujian
+          - fanriming
+          - zbb88888
+          - wangyd1988
+          - SkalaNetworks
+          - thebsdbox
+          - yastij
+          - clux
+          - teozkr
+          - kazk
+          - rsevilla87
+          - vishnuchalla
+          - smalleni
+          - ygalblum
