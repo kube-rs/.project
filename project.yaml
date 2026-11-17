@@ -25,7 +25,7 @@ repositories:
 
 website: "https://kube.rs"
 
-artwork: "https://landscape.cncf.io/logos/kube-rs.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/kube-rs"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
